@@ -1,0 +1,12 @@
+{
+  "name": "dgtl-decalscript",
+  "version": "1.0.0",
+  "description": "Script to copy decals from templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Dahara",
+  "license": "ISC"
+}

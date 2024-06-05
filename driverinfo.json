@@ -1,0 +1,122 @@
+{
+	"allcars": [
+		"McLaren MP4-12C",
+		"Corvette GT3.R",
+		"Ford Mustang GT3",
+		"Porsche 911 GT3 R (992)",
+		"BMW M4 GT3",
+		"Lamborghini GT3",
+		"Audi R8 LMS EVO II GT3",
+		"Mercedes GT3 2020"
+	],
+	"drivers": [
+		{
+			"iracingid": "437195",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "476811",
+			"car": "?"
+		},
+		{
+			"iracingid": "368036",
+			"car": "?"
+		},
+		{
+			"iracingid": "427766",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "264953",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "369554",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "876926",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "523015",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "507343",
+			"car": "?"
+		},
+		{
+			"iracingid": "533442",
+			"car": "?"
+		},
+		{
+			"iracingid": "728760",
+			"car": "BMW M4 GT3"
+		},
+		{
+			"iracingid": "113603",
+			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "90920",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "157852",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "913913",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "470339",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "838431",
+			"car": "Mercedes GT3 2020"
+		},
+		{
+			"iracingid": "947721",
+			"car": "Mercedes GT3 2020"
+		},
+		{
+			"iracingid": "378222",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "565327",
+			"car": "Ferrari 296 GT3"
+		},
+		{
+			"iracingid": "181516",
+			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "460515",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "477965",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "774563",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "228138",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "942748",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "641839",
+			"car": "Porsche 911 GT3 R (992)"
+		}
+	]
+}
