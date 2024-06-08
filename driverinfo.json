@@ -7,7 +7,8 @@
 		"BMW M4 GT3",
 		"Lamborghini GT3",
 		"Audi R8 LMS EVO II GT3",
-		"Mercedes GT3 2020"
+		"Mercedes GT3 2020",
+		"Ferrari 296 GT3"
 	],
 	"drivers": [
 		{
@@ -44,11 +45,11 @@
 		},
 		{
 			"iracingid": "507343",
-			"car": "?"
+			"car": "Porsche 911 GT3 R (992)"
 		},
 		{
 			"iracingid": "533442",
-			"car": "?"
+			"car": "Corvette GT3.R"
 		},
 		{
 			"iracingid": "728760",
@@ -57,6 +58,14 @@
 		{
 			"iracingid": "113603",
 			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "339217",
+			"car": "Ferrari 296 GT3"
+		},
+		{
+			"iracingid": "205044",
+			"car": "Ferrari 296 GT3"
 		},
 		{
 			"iracingid": "90920",
@@ -88,11 +97,11 @@
 		},
 		{
 			"iracingid": "565327",
-			"car": "Ferrari 296 GT3"
+			"car": "BMW M4 GT3"
 		},
 		{
 			"iracingid": "181516",
-			"car": "Lamborghini GT3"
+			"car": "Ford Mustang GT3"
 		},
 		{
 			"iracingid": "460515",
@@ -117,6 +126,59 @@
 		{
 			"iracingid": "641839",
 			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "955333",
+			"car": "?"
+		},
+		{
+			"iracingid": "421087",
+			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "313347",
+			"car": "?"
+		},
+		{
+			"iracingid": "30068",
+			"car": "?"
+		},
+		{
+			"iracingid": "356601",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "135093",
+			"car": "Ferrari 296 GT3"
+		},
+		{
+			"iracingid": "703865",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "520383",
+			"car": "Corvette GT3.R"
+		},
+		{
+			"iracingid": "406386",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "635864",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "410330",
+			"car": "Audi R8 LMS EVO II GT3"
+		},
+		{
+			"iracingid": "622138",
+			"car": "Corvette GT3.R"
+		},
+		{
+			"iracingid": "978650",
+			"car": "Porsche 911 GT3 R (992)"
 		}
+
 	]
 }
