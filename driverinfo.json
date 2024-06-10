@@ -25,11 +25,11 @@
 		},
 		{
 			"iracingid": "427766",
-			"car": "Porsche 911 GT3 R (992)"
+			"car": "Ferrari 296 GT3"
 		},
 		{
 			"iracingid": "264953",
-			"car": "Porsche 911 GT3 R (992)"
+			"car": "Ferrari 296 GT3"
 		},
 		{
 			"iracingid": "369554",
@@ -37,11 +37,11 @@
 		},
 		{
 			"iracingid": "876926",
-			"car": "Ford Mustang GT3"
+			"car": "Audi R8 LMS EVO II GT3"
 		},
 		{
 			"iracingid": "523015",
-			"car": "Ford Mustang GT3"
+			"car": "Audi R8 LMS EVO II GT3"
 		},
 		{
 			"iracingid": "507343",
@@ -69,11 +69,11 @@
 		},
 		{
 			"iracingid": "90920",
-			"car": "Audi R8 LMS EVO II GT3"
+			"car": "Corvette GT3.R"
 		},
 		{
 			"iracingid": "157852",
-			"car": "Audi R8 LMS EVO II GT3"
+			"car": "Corvette GT3.R"
 		},
 		{
 			"iracingid": "913913",
@@ -129,7 +129,7 @@
 		},
 		{
 			"iracingid": "955333",
-			"car": "?"
+			"car": "BMW M4 GT3"
 		},
 		{
 			"iracingid": "421087",
@@ -194,6 +194,14 @@
 		{
 			"iracingid": "549236",
 			"car": "?"
+		},
+		{
+			"iracingid": "718865",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "505642 ",
+			"car": "Porsche 911 GT3 R (992)"
 		}
 
 	]
