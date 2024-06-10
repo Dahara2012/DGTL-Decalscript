@@ -200,8 +200,20 @@
 			"car": "Porsche 911 GT3 R (992)"
 		},
 		{
-			"iracingid": "505642 ",
+			"iracingid": "505642",
 			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "533341",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "542335",
+			"car": "Ford Mustang GT3"
+		},
+		{
+			"iracingid": "965445",
+			"car": "Lamborghini GT3"
 		}
 
 	]
