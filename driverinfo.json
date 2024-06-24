@@ -21,7 +21,7 @@
 		},
 		{
 			"iracingid": "368036",
-			"car": "?"
+			"car": "Ford Mustang GT3"
 		},
 		{
 			"iracingid": "427766",
@@ -33,7 +33,7 @@
 		},
 		{
 			"iracingid": "369554",
-			"car": "Porsche 911 GT3 R (992)"
+			"car": "Ferrari 296 GT3"
 		},
 		{
 			"iracingid": "876926",
@@ -222,6 +222,18 @@
 		{
 			"iracingid": "366704",
 			"car": "Ferrari 296 GT3"
+		},
+		{
+			"iracingid": "418513",
+			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "535860",
+			"car": "Lamborghini GT3"
+		},
+		{
+			"iracingid": "946603",
+			"car": "Porsche 911 GT3 R (992)"
 		}
 	]
 }
