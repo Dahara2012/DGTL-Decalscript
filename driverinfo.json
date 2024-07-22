@@ -17,7 +17,7 @@
 		},
 		{
 			"iracingid": "476811",
-			"car": "Ford Mustang GT3"
+			"car": "Corvette GT3.R"
 		},
 		{
 			"iracingid": "368036",
@@ -250,6 +250,18 @@
 		{
 			"iracingid": "485128",
 			"car": "BMW M4 GT3"
+		},
+		{
+			"iracingid": "410506",
+			"car": "Porsche 911 GT3 R (992)"
+		},
+		{
+			"iracingid": "290902",
+			"car": "Ferrari 296 GT3"
+		},
+		{
+			"iracingid": "1004775",
+			"car": "Porsche 911 GT3 R (992)"
 		}
 	]
 }
